@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "numero": "STU26001",
+    "nom": "Ben Ali",
+    "prenom": "Ahmed",
+    "email": "ahmed.benali@epi.tn",
+    "filiere": "IoT",
+    "niveau": "Ing2",
+    "created_at": "2026-09-15T08:30:00Z",
+    "updated_at": "2026-09-15T08:30:00Z",
+    "date_inscription": "2026-09-15T08:30:00Z"
+  },
+  {
+    "id": 2,
+    "numero": "STU26002",
+    "nom": "Mansouri",
+    "prenom": "Fatima",
+    "email": "fatima.mansouri@epi.tn",
+    "filiere": "IoT",
+    "niveau": "Ing2",
+    "created_at": "2026-09-16T09:15:00Z",
+    "updated_at": "2026-09-16T09:15:00Z",
+    "date_inscription": "2026-09-16T09:15:00Z"
+  },
+  {
+    "id": 3,
+    "numero": "STU26003",
+    "nom": "Trabelsi",
+    "prenom": "Mohamed",
+    "email": "mohamed.trabelsi@epi.tn",
+    "filiere": "Informatique",
+    "niveau": "Ing1",
+    "created_at": "2026-09-18T10:00:00Z",
+    "updated_at": "2026-09-18T10:00:00Z",
+    "date_inscription": "2026-09-18T10:00:00Z"
+  },
+  {
+    "id": 4,
+    "numero": "STU26004",
+    "nom": "Khalil",
+    "prenom": "Sarah",
+    "email": "sarah.khalil@epi.tn",
+    "filiere": "Informatique",
+    "niveau": "Ing3",
+    "created_at": "2026-09-20T11:45:00Z",
+    "updated_at": "2026-09-20T11:45:00Z",
+    "date_inscription": "2026-09-20T11:45:00Z"
+  },
+  {
+    "id": 5,
+    "numero": "STU26005",
+    "nom": "Bouaziz",
+    "prenom": "Omar",
+    "email": "omar.bouaziz@epi.tn",
+    "filiere": "Réseaux",
+    "niveau": "M1",
+    "created_at": "2026-09-22T14:20:00Z",
+    "updated_at": "2026-09-22T14:20:00Z",
+    "date_inscription": "2026-09-22T14:20:00Z"
+  },
+  {
+    "id": 6,
+    "numero": "STU26006",
+    "nom": "Ferchichi",
+    "prenom": "Leila",
+    "email": "leila.ferchichi@epi.tn",
+    "filiere": "Réseaux",
+    "niveau": "M2",
+    "created_at": "2026-09-25T15:10:00Z",
+    "updated_at": "2026-09-25T15:10:00Z",
+    "date_inscription": "2026-09-25T15:10:00Z"
+  },
+  {
+    "id": 7,
+    "numero": "STU26007",
+    "nom": "Hamdi",
+    "prenom": "Youssef",
+    "email": "youssef.hamdi@epi.tn",
+    "filiere": "IoT",
+    "niveau": "Ing3",
+    "created_at": "2026-10-02T08:00:00Z",
+    "updated_at": "2026-10-02T08:00:00Z",
+    "date_inscription": "2026-10-02T08:00:00Z"
+  },
+  {
+    "id": 8,
+    "numero": "STU26008",
+    "nom": "Jlassi",
+    "prenom": "Nour",
+    "email": "nour.jlassi@epi.tn",
+    "filiere": "Informatique",
+    "niveau": "L3",
+    "created_at": "2026-10-10T12:30:00Z",
+    "updated_at": "2026-10-10T12:30:00Z",
+    "date_inscription": "2026-10-10T12:30:00Z"
+  }
+]

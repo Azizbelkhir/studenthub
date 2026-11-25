@@ -1,0 +1,21 @@
+{
+  "name": "studenthub-cloud",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "StudentHub Cloud — Gestion des étudiants EPI Sousse 2026-2027",
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "scripts": {
+    "start:backend": "npm run dev --workspace=backend",
+    "start:frontend": "npm run dev --workspace=frontend",
+    "build:backend": "npm run build --workspace=backend",
+    "build:frontend": "npm run build --workspace=frontend",
+    "build": "npm run build:backend && npm run build:frontend"
+  },
+  "dependencies": {
+    "express-validator": "^7.3.2"
+  }
+}
